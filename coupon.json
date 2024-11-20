@@ -1,0 +1,192 @@
+[
+  {
+    "_id": "1a2b3c4d5e",
+    "brand_name": "TechGear",
+    "rating": 4.5,
+    "description": "High-quality gadgets for tech enthusiasts.",
+    "brand_logo": "https://i.ibb.co.com/dDHgcrq/logo1.png",
+    "coupons": [
+      {
+        "coupon_code": "TECH20",
+        "description": "Get 20% off on all electronics.",
+        "expiry_date": "2024-12-31",
+        "condition": "Minimum purchase of $100 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/techgear",
+    "category": "Electronics",
+    "isSaleOn": true
+  },
+  {
+    "_id": "2f3g4h5i6j",
+    "brand_name": "FashionFlex",
+    "rating": 4.0,
+    "description": "Trendy and affordable fashion for everyone.",
+    "brand_logo": "https://i.ibb.co.com/9g1fLfY/logo2.webp",
+    "coupons": [
+      {
+        "coupon_code": "STYLE15",
+        "description": "Save 15% on your next purchase.",
+        "expiry_date": "2025-01-15",
+        "condition": "Applicable on orders above $50.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/fashionflex",
+    "category": "Clothing",
+    "isSaleOn": true
+  },
+  {
+    "_id": "3k4l5m6n7o",
+    "brand_name": "HomeHaven",
+    "rating": 4.8,
+    "description": "Premium home essentials and decor.",
+    "brand_logo": "https://i.ibb.co.com/7ynPJh8/logo3.jpg",
+    "coupons": [
+      {
+        "coupon_code": "HOME25",
+        "description": "25% off on home decor items.",
+        "expiry_date": "2024-12-01",
+        "condition": "No minimum purchase required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/homehaven",
+    "category": "Home & Living",
+    "isSaleOn": false
+  },
+  {
+    "_id": "4p5q6r7s8t",
+    "brand_name": "SportSphere",
+    "rating": 4.2,
+    "description": "Everything for your active lifestyle.",
+    "brand_logo": "https://i.ibb.co.com/dDHgcrq/logo1.png",
+    "coupons": [
+      {
+        "coupon_code": "FIT10",
+        "description": "Extra 10% off on sportswear.",
+        "expiry_date": "2024-05-20",
+        "condition": "Valid on selected items only.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/sportsphere",
+    "category": "Sportswear",
+    "isSaleOn": true
+  },
+  {
+    "_id": "5u6v7w8x9y",
+    "brand_name": "GourmetDelight",
+    "rating": 4.6,
+    "description": "Exclusive gourmet foods and treats.",
+    "brand_logo": "https://i.ibb.co.com/9g1fLfY/logo2.webp",
+    "coupons": [
+      {
+        "coupon_code": "TASTE5",
+        "description": "Flat $5 off on your first order.",
+        "expiry_date": "2024-04-01",
+        "condition": "First order only.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/gourmetdelight",
+    "category": "Food & Beverages",
+    "isSaleOn": true
+  },
+  {
+    "_id": "6z7a8b9c0d",
+    "brand_name": "AutoAce",
+    "rating": 3.9,
+    "description": "Reliable auto parts and accessories.",
+    "brand_logo": "https://i.ibb.co.com/7ynPJh8/logo3.jpg",
+    "coupons": [
+      {
+        "coupon_code": "CAR15",
+        "description": "15% off on all car accessories.",
+        "expiry_date": "2025-02-15",
+        "condition": "No minimum purchase required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/autoace",
+    "category": "Automotive",
+    "isSaleOn": false
+  },
+  {
+    "_id": "7e8f9g0h1i",
+    "brand_name": "BeautyBliss",
+    "rating": 4.7,
+    "description": "Your one-stop shop for beauty products.",
+    "brand_logo": "https://i.ibb.co.com/dDHgcrq/logo1.png",
+    "coupons": [
+      {
+        "coupon_code": "GLOW20",
+        "description": "20% off on all skincare products.",
+        "expiry_date": "2024-11-30",
+        "condition": "Applicable on orders above $30.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/beautybliss",
+    "category": "Beauty & Personal Care",
+    "isSaleOn": true
+  },
+  {
+    "_id": "8j9k0l1m2n",
+    "brand_name": "BookBarn",
+    "rating": 4.3,
+    "description": "Wide selection of books for all readers.",
+    "brand_logo": "https://i.ibb.co.com/9g1fLfY/logo2.webp",
+    "coupons": [
+      {
+        "coupon_code": "READ10",
+        "description": "Save 10% on all books.",
+        "expiry_date": "2025-03-01",
+        "condition": "No minimum purchase required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/bookbarn",
+    "category": "Books",
+    "isSaleOn": false
+  },
+  {
+    "_id": "9o0p1q2r3s",
+    "brand_name": "KidKraze",
+    "rating": 4.5,
+    "description": "Fun and educational toys for kids.",
+    "brand_logo": "https://i.ibb.co.com/7ynPJh8/logo3.jpg",
+    "coupons": [
+      {
+        "coupon_code": "PLAY15",
+        "description": "15% off on educational toys.",
+        "expiry_date": "2024-08-15",
+        "condition": "Valid for orders above $40.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/kidkraze",
+    "category": "Toys & Games",
+    "isSaleOn": true
+  },
+  {
+    "_id": "0t1u2v3w4x",
+    "brand_name": "GadgetGuard",
+    "rating": 4.1,
+    "description": "Protective gear for your gadgets.",
+    "brand_logo": "https://i.ibb.co.com/dDHgcrq/logo1.png",
+    "coupons": [
+      {
+        "coupon_code": "GUARD10",
+        "description": "10% off on gadget accessories.",
+        "expiry_date": "2025-06-01",
+        "condition": "No minimum purchase required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/gadgetguard",
+    "category": "Accessories",
+    "isSaleOn": false
+  }
+]
